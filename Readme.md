@@ -28,23 +28,14 @@ __Шаг 3: Настройка репозитория__
 
 | Категория | Настройка | Описание | Как настроить |
 | --- | --- | --- | --- |
-| **Основные параметры** | Название репозитория | Уникальное имя проекта | Settings → Repository name → Rename |
+| **Основные параметры** | Название репозитория | Уникальное имя проекта | Settings > Repository name → Rename |
 | | Описание репозитория | Аннотация проекта | Поле «Description» на главной странице |
-| | Видимость | Определяет видимость репозитория | Settings → «Change repository visibility» |
-| **Ветви (Branches)** | Основная ветвь | Имя главной ветки | Settings → Branches → Default branch |
-| | Правила для ветвей | Защита ветвей | Settings → Branches → Protection rules |
-| **Доступ и права** | Соавторы | Добавление пользователей | Settings → Manage access → Invite |
-| | Команды | Назначение групп с доступом | Settings → Collaborators and teams |
-| **Интеграции** | GitHub Actions | Автоматизация процессов | Вкладка «Actions» |
-| | Webhooks | Уведомления о событиях | Settings → Webhooks → Add webhook |
-| **Безопасность** | Секреты | Хранение токенов для CI/CD | Settings → Secrets and variables → Actions |
-| | Зависимости | Проверка уязвимостей | Settings → Code security and analysis |
-| **Документация** | README.md | Описание проекта | Создать/редактировать файл `README.md` |
-| | LICENSE | Юридическая лицензия | Добавить файл `LICENSE` |
-| | `.gitignore` | Игнорируемые файлы | Создать файл `.gitignore` |
-| **Внешний вид** | Темы и иконки | Оформление репозитория | Settings → Appearance |
-| **Архивация** | Архивирование репозитория | Пометка как архивный | Settings → Archive this repository |
-| | Экспорт данных | Резервная копия репозитория | Settings → Export repository |
+| | Видимость | Определяет видимость репозитория | Settings > «Change repository visibility» |
+| **Ветви (Branches)** | Основная ветвь | Имя главной ветки | Settings> Branches > Default branch |
+| | Правила для ветвей | Защита ветвей | Settings > Branches > Protection rules |
+| **Доступ и права** | Соавторы | Добавление пользователей | Settings > Manage access > Invite |
+| | Команды | Назначение групп с доступом | Settings > Collaborators and teams |
+
 
 
 __Шаг 4: Завершение создания__
